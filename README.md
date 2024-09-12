@@ -38,7 +38,7 @@ Vengono di seguito elencati i componenti distribuiti o richiesti con MAppER che 
 
 
 #### Componenti utilizzati per la documentazione
-Di seguito è elencato il componente utilizzato per il sito della documentazione, ma non ridistribuito nel software MAppER
+
 
 #### Licenza
 La licenza è GNU Affero General Public License (AGPL) versione 3 e successive (codice SPDX: AGPL-3.0-or-later) ed è visibile sul sito [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html) 
