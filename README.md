@@ -27,16 +27,14 @@ Microsoft .NET core 8.x
 La soluzione si compone di un solo progetto, se vi suole provare l'applicazione in Debug possono essere impostati i parametri di chiamata nella "Proprietà di debug di GeneraPdfArticolo26" utilizzando percorsi assoluti per i file xls, json e la cartella destinazione.
 
 ### Licenze software dei componenti di terze parti
-#### Componenti distribuiti
+#### Componenti distribuiti e o dipendenze
 Vengono di seguito elencati i componenti distribuiti o richiesti con MAppER che hanno una propria licenza diversa da CC0.
 
 - [iText7 (8.0.5)](https://itextpdf.com/) di Apryse Licenza [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html) 
 - [iText7.bouncy-castle-adapter(8.0.5)](https://itextpdf.com/) di Apryse Licenza [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html)
 - [EPPlus (7.3.1)](https://epplussoftware.com/) di EPPlusSoftware Licenza [Poliform non Commercial](https://polyformproject.org/licenses/noncommercial/1.0.0)
+- [Micosoft .net core 8] (https://dotnetfoundation.org/) di Microsoft Licenza [MIT](https://mit-license.org/)
 
-#### Principali dipendenze per la fase di compilazione e sviluppo
-- .net core 8
-- Microsoft.Extensions.Logging.Console
 
 
 #### Componenti utilizzati per la documentazione
