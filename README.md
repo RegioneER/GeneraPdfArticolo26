@@ -18,7 +18,7 @@ L'intallazione e le personalizzazioni sono a carico del soggetto che prende a ri
 ### Come iniziare
 
 #### Prerequisiti
-L'applicazione MAppER necessita di:
+L'applicazione necessita di:
 
 Microsoft Visual Studio 2022 o versioni superiori o Visual Studio Code.\
 Microsoft .NET core 8.x
