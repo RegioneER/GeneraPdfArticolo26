@@ -1,0 +1,45 @@
+{
+  "NomeBando": "Demo",
+  "Titolo": "Demo di creazione pdf",
+  "TitoloGruppo": "",
+  "NomeCampoSottotitolo": "Sottotitolo",
+  "NomeFoglioIndice": "Primo",
+  "NomeCampoID": "File",
+  "NomeCampoFooter": "Footer",
+  "NomeCampoPercorso": "Percorso",
+  "NomeColonnaAmmessi": "",
+  "ValorePositivo": "",
+  "ValoreNegativo": "",
+  "MaxDocumenti": 1000,
+  "Numerazione": false,
+  "Logo": "logorer.png",
+  "LogoAlt": "Logo Regione Emilia-Romagna",
+  "Sezioni": [
+    {
+      "NomeSezione": "Soggetto Proponente",
+      "NomeFoglio": "Primo",
+      "Tipo": "semplice",
+      "TestoSeVuota": "",
+      "EscludiCampi": [ "File", "Sottotitolo", "Footer","Percorso" ]
+    },
+    {
+      "NomeSezione": "Descrizione progetto",
+      "NomeFoglio": "Secondo",
+      "Tipo": "semplice",
+      "TestoSeVuota": ""
+    },
+    {
+      "NomeSezione": "Fasi",
+      "NomeFoglio": "Terzo",
+      "Tipo": "multipla",
+      "TestoSeVuota": "Non ci sono fasi concordate (es id 3)"
+    },
+    {
+      "NomeSezione": "Spese e contributo",
+      "NomeFoglio": "Quarto",
+      "Tipo": "multipla",
+      "TestoSeVuota": "",
+      "Tabella":[50,50]
+    }
+  ]
+}
