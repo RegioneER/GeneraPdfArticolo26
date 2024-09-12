@@ -33,7 +33,7 @@ Vengono di seguito elencati i componenti distribuiti o richiesti con MAppER che 
 - [iText7 (8.0.5)](https://itextpdf.com/) di Apryse Licenza [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html) 
 - [iText7.bouncy-castle-adapter(8.0.5)](https://itextpdf.com/) di Apryse Licenza [AGPL-3.0-or-later](https://www.gnu.org/licenses/agpl-3.0.html)
 - [EPPlus (7.3.1)](https://epplussoftware.com/) di EPPlusSoftware Licenza [Poliform non Commercial](https://polyformproject.org/licenses/noncommercial/1.0.0)
-- [Micosoft .net core 8] (https://dotnetfoundation.org/) di Microsoft Licenza [MIT](https://mit-license.org/)
+- [Micosoft .net core 8](https://microsoft.com/) di Microsoft Licenza [MIT](https://mit-license.org/)
 
 
 
